@@ -14,8 +14,9 @@ To apply abbreviation to references in a journal paper:
  2. On the 'Terms' tab, remove the existing journals list: select all and delete.
  3. Add new journal list: Go to 'Lists' tab, select 'Journals', and Import List'.
  4. It has several journal lists existing on EndNote. For my case, it's required to download the Science and Engineering Journal Abbreviations_20231013.txt file (https://drive.google.com/file/d/1MdkiAfb4BDg8_MJ6JryDMeH4povhpq2_/view or on the folder of 'abbreviation' in this repository).
-    credit to: http://tul.blog.ntu.edu.tw/archives/23421 and https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/
- 6. Then, you have a new journal list and the abbreviation.
+
+credit to: http://tul.blog.ntu.edu.tw/archives/23421 and https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/
+ 5. Then, you have a new journal list and the abbreviation.
 
 
 ## Reference Style (J. Build. Eng.)
