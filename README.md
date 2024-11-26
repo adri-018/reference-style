@@ -19,14 +19,14 @@ To apply abbreviation to references in a journal paper:
 credit to: http://tul.blog.ntu.edu.tw/archives/23421 and https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/
 
 
-## Reference Style (J. Build. Eng.)
-For applying the reference style pada paper di journal tersebut:
+## Reference Format (J. Build. Eng.)
+To apply the reference style to the paper in the journal:
  1. Select the style on Ms. Word file: 'EndNote' tab -> Bibliography -> Style -> select 'ACS[Bracketed]'.
- 2. Untuk mengedit template format referensi, please go to Tools -> Output Styles -> Edit [used reference style].
- 3. Kemudian, untuk mengubah journal nama ke abbreviation: go to 'Journal Names' -> select 'Abbreviation 1'.
- 4. Jika hendak mengubah template tampilan references: go to 'Bibliography' -> 'Templates' -> edit atau tambahkan reference type dan field.
- 5. Jika hendak menggunakan bracket '[]': go to 'Layout' -> add brackets in the 'Start each reference with:' (for example:  [Bibliography Number]).
- 6. Pada 'Layout', terdapat fitur 'Hanging Indent' untuk mengatur allignment references. (for example: select 'All paragraphs').
- 7. Jika hendak mengedit penggunaan koma atau titik koma diantara penulis-penulis: go to 'Author Lists'.
- 8. Jika hendak mengedit cara tampilan penulis-penulis: go to 'Author Name'.
- 9. Silakan temukan 'ACS[Bracketed]' file untuk EndNote di folder 'reference format' in this repository.
+ 2. To edit the reference format template, please go to 'Tools' -> 'Output Styles' -> 'Edit [used reference style]'.
+ 3. Then, to change the journal name to abbreviation: go to 'Journal Names' -> select 'Abbreviation 1'.
+ 4. If you want to change the references display template: go to 'Bibliography' -> 'Templates' -> edit atau tambahkan reference type dan field.
+ 5. If you want to use brackets '[]': go to 'Layout' -> add brackets in the 'Start each reference with:' (for example:  [Bibliography Number]).
+ 6. In 'Layout', there is a 'Hanging Indent' feature to set the alignment of references. (for example: select 'All paragraphs').
+ 7. If you want to edit the use of commas or semicolons between authors: go to 'Author Lists'.
+ 8. If you want to edit how authors are displayed: go to 'Author Name'.
+ 9. Please find the 'ACS[Bracketed]' file for EndNote in the 'reference format' folder in this repository.
