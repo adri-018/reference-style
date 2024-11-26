@@ -29,4 +29,4 @@ For applying the reference style pada paper di journal tersebut:
  6. Pada 'Layout', terdapat fitur 'Hanging Indent' untuk mengatur allignment references. (for example: select 'All paragraphs').
  7. Jika hendak mengedit penggunaan koma atau titik koma diantara penulis-penulis: go to 'Author Lists'.
  8. Jika hendak mengedit cara tampilan penulis-penulis: go to 'Author Name'.
- 9. Silakan temukan 'ACS[Bracketed]' file untuk EndNote di folder 'reference style' in this repository.
+ 9. Silakan temukan 'ACS[Bracketed]' file untuk EndNote di folder 'reference format' in this repository.
