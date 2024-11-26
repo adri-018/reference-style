@@ -1,7 +1,7 @@
 # Reference Style
 There are two items that often need to be considered regarding the reference format for journal papers:
   1. Abbreviations of journal name.
-  2. Reference style.
+  2. Reference format.
 
 This repository is applicable to use in EndNote (applicable on EndNote 20 and 21).
 
